@@ -33,6 +33,16 @@ Archives can contain private messages, credentials, and tool output from the ori
 swift test
 ```
 
+## Related projects
+
+Other tools for browsing or moving coding-agent conversations:
+
+- [Poirot](https://github.com/a7t-ai/poirot) — Native macOS companion for browsing Claude Code sessions, inspecting diffs, and rerunning commands.
+- [JustSessions](https://github.com/yangzichao/JustSessions) — Native Mac app for finding, reading, and resuming sessions across Claude Code, Codex, and other agents.
+- [Claude Code History Viewer](https://github.com/yanicklandry/claude-code-history-viewer) — Electron desktop viewer with a Claude-style conversation interface, formatted code, and tool records.
+- [Coding Agent History Viewer](https://github.com/XZL-CODE/cc-codex-history-viewer) — Tauri desktop app for Claude Code and Codex history, search, exports, and session imports.
+- [Claude Session Port](https://github.com/TomSOhm/claude-session-port) — Claude Code slash commands for exporting and importing individual sessions through ZIP files and resuming them on another machine.
+
 ## License
 
 [MIT](LICENSE). Independent project; not affiliated with Anthropic.
